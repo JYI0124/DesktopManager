@@ -1,2 +1,1 @@
 # DesktopManager
-OODP project
